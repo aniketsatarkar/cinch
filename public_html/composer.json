@@ -1,0 +1,16 @@
+{
+    "name": "aniket/cinch",
+    "description": "cinch",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "aniket",
+            "email": "aniketsatarkar9@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+		"maximebf/debugbar": "1.*"
+	}
+}

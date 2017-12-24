@@ -19,6 +19,8 @@ composer.lock
 .komodotools/*
 .komodoproject
 
+public_html/vendor/*
+
 ## Sublime Text cache files
 *.tmlanguage.cache
 *.tmPreferences.cache
